@@ -24,5 +24,5 @@
 
 ### Задание 3. 
 
-#### DEB: Debian Ubuntu Kali Linux 
+#### DEB: Debian Ubuntu Kali Linux Proxmox
 #### RPM: Fedora CentOS Red Hat openSUSE
