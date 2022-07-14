@@ -15,7 +15,7 @@ RAID 0 величивает производительность системы.
 
 ### Задание 3
 
-![P1](https://github.com/geniusnsk/netology/blob/main/lesson8_1.png)
+![P1](https://github.com/geniusnsk/netology/blob/main/lesson8_1_1.png)
 
 ## Дополнительные задания (со звездочкой*)
 
