@@ -19,3 +19,10 @@
 
 
 `chdir("/tmp")`
+
+## Дополнительные задания (со звездочкой*)
+
+
+### Задание 4
+
+![P1](https://github.com/geniusnsk/netology/blob/main/lesson10_2.png)
