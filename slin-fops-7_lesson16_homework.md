@@ -15,6 +15,14 @@
 
 *Приведите ответ в виде снимков экрана.*
 
+![P1](https://github.com/geniusnsk/netology/blob/main/lesson16_1.png)
+
+![P2](https://github.com/geniusnsk/netology/blob/main/lesson16_2.png)
+
+![P3](https://github.com/geniusnsk/netology/blob/main/lesson16_3.png)
+
+![P4](https://github.com/geniusnsk/netology/blob/main/lesson16_4.png)
+
 ------
 
 ### Задание 2.
