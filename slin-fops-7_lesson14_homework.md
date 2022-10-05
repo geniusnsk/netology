@@ -18,7 +18,7 @@ snapd.service
 
 Это можно сделать командой:
 
-    journalctl --since=yesterday --until=now
+    journalctl --since=yesterday --until=now | grep kernel
 
 После чего можно производить поиск по ключевым словам либо выгрузить в файл для дальнейшего анализа.
 
@@ -34,7 +34,7 @@ snapd.service
 
 Это можно проверить коммандой:
 
-    systemctl --all -t service
+    systemctl --all -t service | grep failed
     
 После чего посмотреть в списке интересующие службы. 
 
